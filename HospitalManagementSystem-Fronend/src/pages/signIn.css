@@ -1,0 +1,36 @@
+.signInContainer{
+    border-style: solid;
+    margin-top: 10px;
+    margin-left: 350px;
+    width: 800px;
+    border-radius: 20px;
+}
+.corosoleContainer{
+    margin-top: 30px;
+}
+.tableBody{
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: large;
+}
+.messageText{
+    color:"Blue";
+    
+    font-family: cursive;
+}
+.logo{
+    height: 100px;
+    width:100;
+}
+.logotable{
+    margin-left: 250px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+.heading{
+    color:gray;
+    font-family: fantasy;
+    margin-top: 25px;
+    margin-left:-675px
+}
