@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.iacsd</groupId>
-	<artifactId>hospital-management-server</artifactId>
+	<artifactId>hospital-management-system</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>hospital-management-server</name>
 	<description>cdac final project</description>
